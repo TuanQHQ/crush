@@ -1,4 +1,4 @@
-onst CONFIG = {
+const CONFIG = {
     introTitle: 'c Phượng à!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
@@ -15,4 +15,4 @@ onst CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Tháng sau đi chơi nha công chúa',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.messenger.com/t/100002861780475/'
+    messLink: 'https://www.facebook.com/bill.beo.96/'
